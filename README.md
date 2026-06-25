@@ -1,6 +1,6 @@
-# 📊 Case: Customer Feedback — Análise das Avaliações Negativas de um Sistema ERP
+# 📊 Case: Customer Feedback: Análise das Avaliações Negativas de um Sistema ERP
 
-Atividade acadêmica desenvolvida como parte da pós-graduação em **Data Analytics e AI for Business** pela FNAT (Fundação de Negócios, Analytics e Tecnologia) — 2026.
+Atividade acadêmica desenvolvida como parte da pós-graduação em **Data Analytics e AI for Business** pela FNAT (Fundação de Negócios, Analytics e Tecnologia), 2026.
 
 ---
 
@@ -33,8 +33,8 @@ Os dados utilizados são fictícios e foram fornecidos exclusivamente para fins 
 
 ## Ferramentas Utilizadas
 
-- **Power BI** — modelagem dos dados e análise via gráfico de Principais Influenciadores (Augmented Analytics)
-- **Análise de Sentimentos via LLM** — interpretação qualitativa dos comentários dos usuários
+- **Power BI**: modelagem dos dados e análise via gráfico de Principais Influenciadores (Augmented Analytics)
+- **Análise de Sentimentos via LLM**: interpretação qualitativa dos comentários dos usuários
 
 ---
 
@@ -42,7 +42,7 @@ Os dados utilizados são fictícios e foram fornecidos exclusivamente para fins 
 
 ### 1. Qual público mais tende a avaliar negativamente?
 
-O perfil com maior concentração de avaliações negativas é o usuário com **cargo de Consumidor**, representando quase **32% das avaliações baixas** de toda a base. Dentro desse grupo, a maior parte das reclamações está concentrada nos clientes do **Plano Premier**, ou seja, os clientes que mais pagam pelo serviço são os que mais demonstram insatisfação — um risco crítico para retenção e imagem da empresa.
+O perfil com maior concentração de avaliações negativas é o usuário com **cargo de Consumidor**, representando quase **32% das avaliações baixas** de toda a base. Dentro desse grupo, a maior parte das reclamações está concentrada nos clientes do **Plano Premier**, ou seja, os clientes que mais pagam pelo serviço são os que mais demonstram insatisfação, um risco crítico para retenção e imagem da empresa.
 
 ### 2. Quais são as principais características desse público?
 
