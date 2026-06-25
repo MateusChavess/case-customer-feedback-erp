@@ -1,0 +1,6 @@
+*.xlsx
+*.xls
+~$*
+.claude/
+Thumbs.db
+desktop.ini
